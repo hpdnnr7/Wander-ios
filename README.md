@@ -34,9 +34,9 @@ Planning dates or activities can be hard, especially when you're on a budget, or
 
 * User can register for an account (Completed)
 * User can log in (Completed)
-* User can fill in/modify the interest form
-* User can pick a date
-* User can set a budget
+* User can fill in/modify the interest form (In progress)
+* User can pick a date (In progress)
+* User can set a budget (In progress)
 * User location
 
 **Optional Nice-to-have Stories**
@@ -57,10 +57,10 @@ Planning dates or activities can be hard, especially when you're on a budget, or
    * User fills in form about interest and activities they prefer
 * Home Profile Screen (Completed)
     * User can read about activities around their area
-* Map screen
+* Map screen (In progress)
     * User can see the activities/places in a map
     * User can choose the budget and get sorted activities
-* Event screen
+* Event screen (In progress)
     * User can read about a specific activity
 * Favorites
     * User's saved activities/places
