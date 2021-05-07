@@ -10,6 +10,8 @@
 ### Description
 Planning dates or activities can be hard, especially when you're on a budget, or even worse... when you're in the middle of a pandemic! That's why we created an app that does it all for you! Wander creates an itinerary of activities around you based on your preferences and budget. Upon signing up, you are prompted to take a short quiz for a more personalized result.
 
+### Description
+
 ### App Evaluation
 
 - **Category:** Lifestyle
@@ -20,14 +22,18 @@ Planning dates or activities can be hard, especially when you're on a budget, or
 - **Scope:** Wander is an application that aims to help people plan their activities around their city based on their interest and budget. The main goal is to help people get out from their comfort zone and discover places and activities around them. 
 
 
+
+### GIFs
+<img src='wander.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
 ## Product Spec
 
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
 
-* User can register for an account
-* User can log in
+* User can register for an account (Completed)
+* User can log in (Completed)
 * User can fill in/modify the interest form
 * User can pick a date
 * User can set a budget
@@ -43,13 +49,13 @@ Planning dates or activities can be hard, especially when you're on a budget, or
 
 ### 2. Screen Archetypes
 
-* Login/register Screen 
+* Login/register Screen (Completed)
    * User can choose to login or register for a new account
-* Register Screen
+* Register Screen (Completed)
    * User can create a new account
    * User fills in basic information
    * User fills in form about interest and activities they prefer
-* Home Profile Screen
+* Home Profile Screen (Completed)
     * User can read about activities around their area
 * Map screen
     * User can see the activities/places in a map
