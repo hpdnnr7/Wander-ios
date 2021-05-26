@@ -10,6 +10,7 @@
 		479685530BE8B007F9A61222 /* Pods_WanderTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A8D78AF5EBE597CF0654CAC /* Pods_WanderTests.framework */; };
 		71BD6049C3E32B6FDDF0F015 /* Pods_Wander.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8105A37C8686E0AF23BC7E82 /* Pods_Wander.framework */; };
 		8216001D37FCA4004B51CA8D /* Pods_Wander_WanderUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EBE953B04C6246248C04C3E /* Pods_Wander_WanderUITests.framework */; };
+		ED0382B2265DB68E000A24B4 /* QuestionaireViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED0382B1265DB68E000A24B4 /* QuestionaireViewController.swift */; };
 		ED28D4BF262FBD6D00A4E063 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED28D4BE262FBD6D00A4E063 /* AppDelegate.swift */; };
 		ED28D4C1262FBD6D00A4E063 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED28D4C0262FBD6D00A4E063 /* SceneDelegate.swift */; };
 		ED28D4C6262FBD6D00A4E063 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED28D4C4262FBD6D00A4E063 /* Main.storyboard */; };
@@ -48,6 +49,7 @@
 		BB185F33CD20F273329BB402 /* Pods-Wander.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Wander.debug.xcconfig"; path = "Target Support Files/Pods-Wander/Pods-Wander.debug.xcconfig"; sourceTree = "<group>"; };
 		CF300A85B01C70349C54BC18 /* Pods-WanderTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WanderTests.release.xcconfig"; path = "Target Support Files/Pods-WanderTests/Pods-WanderTests.release.xcconfig"; sourceTree = "<group>"; };
 		E0A85E589D5AFA78ED44E576 /* Pods-Wander.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Wander.release.xcconfig"; path = "Target Support Files/Pods-Wander/Pods-Wander.release.xcconfig"; sourceTree = "<group>"; };
+		ED0382B1265DB68E000A24B4 /* QuestionaireViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionaireViewController.swift; sourceTree = "<group>"; };
 		ED28D4BB262FBD6D00A4E063 /* Wander.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Wander.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED28D4BE262FBD6D00A4E063 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ED28D4C0262FBD6D00A4E063 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -149,6 +151,7 @@
 				ED28D4CC262FBD7200A4E063 /* Info.plist */,
 				ED28D521262FDBE500A4E063 /* RegistrationViewController.swift */,
 				ED28D55B262FEAF000A4E063 /* LoginViewController.swift */,
+				ED0382B1265DB68E000A24B4 /* QuestionaireViewController.swift */,
 			);
 			path = Wander;
 			sourceTree = "<group>";
@@ -412,6 +415,7 @@
 				ED28D55C262FEAF000A4E063 /* LoginViewController.swift in Sources */,
 				ED28D4BF262FBD6D00A4E063 /* AppDelegate.swift in Sources */,
 				ED28D522262FDBE500A4E063 /* RegistrationViewController.swift in Sources */,
+				ED0382B2265DB68E000A24B4 /* QuestionaireViewController.swift in Sources */,
 				ED28D4C1262FBD6D00A4E063 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
