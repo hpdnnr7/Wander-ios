@@ -20,7 +20,7 @@ class QuestionaireViewController: UIViewController, UIPickerViewDelegate, UIPick
     var pickerView2 = UIPickerView()
     
     let location = ["Brooklyn", "Manhattan", "Queens", "The Bronx", "Staten Island"]
-    let budget = ["Low", "Medium", "High"]
+    let budget = ["$ to $$$", "$$$ to $"]
     
     
     
@@ -40,6 +40,9 @@ class QuestionaireViewController: UIViewController, UIPickerViewDelegate, UIPick
         
         budgetTextField.inputView = pickerView2
         budgetTextField.textAlignment = .center
+        
+        locationTextField.textColor = UIColor.lightGray
+        budgetTextField.textColor = UIColor.lightGray
 
     }
     

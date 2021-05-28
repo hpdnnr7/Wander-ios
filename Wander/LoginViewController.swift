@@ -12,8 +12,6 @@ class LoginViewController: UIViewController {
     
     
     @IBOutlet weak var usernameField: UITextField!
-
-    
     @IBOutlet weak var passwordField: UITextField!
 
     
@@ -21,13 +19,11 @@ class LoginViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
-    
     }
     
     @IBAction func onLogin(_ sender: Any) {
         let username = usernameField.text!
-              let password = passwordField.text!
+        let password = passwordField.text!
 
               PFUser.logInWithUsername(inBackground:username, password:password) {
                 (user, error)  in
